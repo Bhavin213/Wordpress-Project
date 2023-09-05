@@ -1,6 +1,6 @@
 # Wordpress-Project
 
-Some Project
+Some Project (Personal)
 1. https://www.homedecorauto.com  (Home Decor)
 2. https://www.bhavintechglobal.com  (News - AdSense Approved)
 3. https://www.jobsearchout.com  (Job Search Engine)
