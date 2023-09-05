@@ -2,7 +2,7 @@
 
 Some Project
 1. https://www.homedecorauto.com  (Home Decor)
-2. https://www.bhavintechglobal.com  (News)
+2. https://www.bhavintechglobal.com  (News - AdSense Approved)
 3. https://www.jobsearchout.com  (Job Search Engine)
 
 Throughout my career, I have worked extensively on creating visually appealing and user-friendly websites using WordPress as the primary platform. My experience includes:
